@@ -12,3 +12,8 @@ paper by Rui Fan, Liu Yanan
 ## Small Baseline Stereovision
 Julie Delon LTCI (Télécom Paris, France), julie.delon@enst.fr
 Bernard Rougé CNES (Toulouse, France), bernard.rouge@cnes.fr
+
+# data
+
+For testing I'll just use a images from [middlebury](http://vision.middlebury.edu/stereo/data/scenes2014/) dataset.
+One image pair is in `data` folder, with only left and right images.
